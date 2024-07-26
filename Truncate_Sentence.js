@@ -6,5 +6,8 @@ var truncateSentence = function(s, k) {
    }
    return result;
 };
+
+
+
 truncateSentence("hi how are you")
 truncateSentence(5)
